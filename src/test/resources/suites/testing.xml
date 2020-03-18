@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG">
+<test name="TestNG сценарии">
+<!--<packages>
+  <package name="org.Daria.Ryabinina"></package>
+</packages>-->
+  <classes>
+    <class name="org.DariaRyabinina.ComplexTest"/>
+    <class name="org.DariaRyabinina.SimpleTest"/>
+  </classes>
+  </test>
+</suite>
